@@ -134,6 +134,12 @@ Content-Type: application/json
 WS /ws/{session_id}
 ```
 
+## 📚 详细使用指南
+
+- **[USAGE_GUIDE.md](USAGE_GUIDE.md)** - 完整的使用指南，包含实际应用场景和工作流程
+- **[examples/quick_start.py](examples/quick_start.py)** - 快速启动示例，适合立即使用
+- **[examples/vscode_integration.md](examples/vscode_integration.md)** - VS Code 扩展集成指南
+
 ## 🔧 核心组件
 
 ### ContextManager
